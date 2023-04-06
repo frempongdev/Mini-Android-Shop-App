@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <nav>
         <div className='nav-center'>
-            <h3>Android Phoneshop</h3>
+            <h3>Mini Phone Shop</h3>
             <div className="nav-container">
                 <CartIcon />
                 <div className="amount-container">
